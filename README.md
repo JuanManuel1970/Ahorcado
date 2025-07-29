@@ -16,7 +16,8 @@ Abrir el proyecto en IntelliJ y ejecutar `Main.java`.
 
 ## 📁 Estructura del proyecto
 Ahorcado/
-├── src/
+
+── src/
 │ ├── Main.java
 │ ├── AhorcadoFrame.java
 │ └── AhorcadoLogica.java
